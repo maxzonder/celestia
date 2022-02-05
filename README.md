@@ -2,7 +2,7 @@
 
 `addrbook.json` for Application (validator) nodes
 
-`full_node_peers.txt`- multiaddresses of full nodes
-
 `trusted_server.txt`- server to query hash
+
+`trusted_peer.txt` - trusted peer for light node
 
